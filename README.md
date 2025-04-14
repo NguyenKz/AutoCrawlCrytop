@@ -28,6 +28,7 @@ pip install -r requirements.txt
 ```bash
 GOOGLE_API_KEY=your_api_key
 ```
+- You can get the API key from [Google Cloud Console](https://aistudio.google.com/apikey)
 
 ## Usage
 
