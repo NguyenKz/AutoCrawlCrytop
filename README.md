@@ -30,8 +30,14 @@ pip install -r requirements.txt
 
 Run the script with Python:
 
+Ubuntu/MacOS:
 ```bash
-python crypto_news_scraper.py
+./run.sh
+```
+
+Windows:
+```bash
+.\run.bat
 ```
 
 This will fetch the latest news and display it in the console.
